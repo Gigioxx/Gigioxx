@@ -29,6 +29,17 @@
 
 <hr>
 
+<div align="center">
+  
+  **Check my deployed projects!**<br>
+  <a href="https://maps-vue-ts.netlify.app/#/" target="blank">Vue Maps App</a><br>
+  <a href="https://vue-pkmn.netlify.app/" target="blank">Vue Who's that pokemon?</a><br>
+  <a href="https://gigioxx.github.io/todo-javascript/" target="blank">JS ToDo App</a><br>
+  
+</div>
+  
+<hr>
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigioxx&show_icons=true&theme=dark&locale=en&layout=compact" alt="gigioxx" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gigioxx&theme=dark" alt="gigioxx" /></p>
