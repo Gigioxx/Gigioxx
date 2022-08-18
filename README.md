@@ -35,6 +35,7 @@
   <a href="https://maps-vue-ts.netlify.app/#/" target="blank">Vue Maps App</a><br>
   <a href="https://vue-pkmn.netlify.app/" target="blank">Vue Who's that pokemon?</a><br>
   <a href="https://gigioxx.github.io/todo-javascript/" target="blank">JS ToDo App</a><br>
+  <a href="https://crypto-value.netlify.app/" target="blank">Crypto Prices App</a><br>
   
 </div>
   
