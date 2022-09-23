@@ -37,6 +37,7 @@
   <a href="https://gigioxx.github.io/todo-javascript/" target="blank">JS ToDo App</a><br>
   <a href="https://crypto-value.netlify.app/" target="blank">Crypto Prices App</a><br>
   <a href="https://react-dbrd.netlify.app/" target="blank">React Dashboard App</a><br>
+  <a href="https://tictac-app.vercel.app/" target="blank">TicTac App (TikTok clone)</a><br>
   
 </div>
   
