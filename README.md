@@ -52,6 +52,7 @@
   <a href="https://crypto-value.netlify.app/" target="blank">Crypto Prices App</a><br>
   <a href="https://react-dbrd.netlify.app/" target="blank">React Dashboard App</a><br>
   <a href="https://tictac-app.vercel.app/" target="blank">TicTac App (TikTok clone)</a><br>
+  <a href="https://i-songs.vercel.app/" target="blank">iSongs</a><br>
   
 </div>
   
