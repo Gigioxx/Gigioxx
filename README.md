@@ -7,7 +7,7 @@
   
 🧠 I’m currently working on **Boosting my knowledge**
 
-🌱 I’m currently learning **Full Stack Development, mainly ReactJS and Typescript**
+🌱 I’m currently learning **Full Stack Development, mainly ReactJS, NextJS and Typescript**
 
 ⚡ Fun fact **I really like PC Games, software and hardware.**
   
