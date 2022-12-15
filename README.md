@@ -50,6 +50,7 @@
   <a href="https://tictac-app.vercel.app/" target="blank">TicTac App (TikTok clone)</a><br>
   <a href="https://i-songs.vercel.app/" target="blank">iSongs</a><br>
   <a href="https://ecommerce-next-gigioxx.vercel.app/" target="blank">Ecommerce Next</a><br>
+  <a href="https://tesla-store-next.up.railway.app/" target="blank">Tesla Store Next</a><br>
   
 </div>
   
