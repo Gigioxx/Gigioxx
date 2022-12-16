@@ -41,16 +41,18 @@
 
 <div align="center">
   
-  **Check my deployed projects!**<br>
+  **Check my deployed projects!** (Ordered from newest to oldest)<br>
+  
+  <a href="https://pokedex-vite.vercel.app/" target="blank">Pokédex Vite</a><br>
+  <a href="https://tesla-store-next.up.railway.app/" target="blank">Tesla Store Next</a><br>
+  <a href="https://ecommerce-next-gigioxx.vercel.app/" target="blank">Ecommerce Next</a><br>
+  <a href="https://i-songs.vercel.app/" target="blank">iSongs</a><br>
+  <a href="https://tictac-app.vercel.app/" target="blank">TicTac App (TikTok clone)</a><br>
+  <a href="https://react-dbrd.netlify.app/" target="blank">React Dashboard App</a><br>
+  <a href="https://crypto-value.netlify.app/" target="blank">Crypto Prices App</a><br>
   <a href="https://maps-vue-ts.netlify.app/#/" target="blank">Vue Maps App</a><br>
   <a href="https://vue-pkmn.netlify.app/" target="blank">Vue Who's that pokemon?</a><br>
   <a href="https://gigioxx.github.io/todo-javascript/" target="blank">JS ToDo App</a><br>
-  <a href="https://crypto-value.netlify.app/" target="blank">Crypto Prices App</a><br>
-  <a href="https://react-dbrd.netlify.app/" target="blank">React Dashboard App</a><br>
-  <a href="https://tictac-app.vercel.app/" target="blank">TicTac App (TikTok clone)</a><br>
-  <a href="https://i-songs.vercel.app/" target="blank">iSongs</a><br>
-  <a href="https://ecommerce-next-gigioxx.vercel.app/" target="blank">Ecommerce Next</a><br>
-  <a href="https://tesla-store-next.up.railway.app/" target="blank">Tesla Store Next</a><br>
   
 </div>
   
