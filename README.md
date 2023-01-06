@@ -5,7 +5,7 @@
 
 <div align="center">
   
-🧠 I’m currently working **Boosting my knowledge**
+🧠 I’m always working to **Boost my knowledge**
 
 🌱 I’m currently learning **ReactJS, NextJS and Typescript**
 
