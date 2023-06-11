@@ -7,7 +7,7 @@
   
 🧠 I’m working in **web development**
 
-🌱 I’m currently learning **[React](https://reactjs.org/), [NextJS](https://nextjs.org/) and [Typescript](https://www.typescriptlang.org/)**
+🌱 I’m currently learning **[React](https://react.dev/), [NextJS](https://nextjs.org/) and [Typescript](https://www.typescriptlang.org/)**
 
 ⚡ **I like PC Games and hardware.**
   
