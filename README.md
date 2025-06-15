@@ -1,54 +1,75 @@
-<h1 align="center">Hi 👋, I'm Guillermo</h1>
-<h3 align="center">A computer science engineer from Chile 🇨🇱</h3>
-
-<hr>
-
 <div align="center">
-  
-🧠 I’m working in **web development**
-
-🌱 I’m currently learning **[React](https://react.dev/), [NextJS](https://nextjs.org/) and [Typescript](https://www.typescriptlang.org/)**
-
-⚡ **I like PC Games and hardware.**
-  
+  <h1>Hi, I'm Guillermo 👋</h1>
+  <h3>Senior Full Stack Engineer | Next.js | TypeScript | Performance</h3>
 </div>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/guillermo-casanova-barzana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillermo-casanova-barzana" height="30" width="40" /></a>
+  I build high-performance, scalable web applications with a focus on creating exceptional user experiences. My expertise lies in the modern web ecosystem, architecting business-centric products from concept to deployment.
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+---
 
-<div align="center">
+### 🚀 My Featured Projects
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="40" height="40"/> </a>
-  
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">Tesla E-commerce Platform</h4>
+      <p align="center">
+        <a href="https://tesla-store-next.vercel.app/" target="_blank">
+          <img src="https://github.com/user-attachments/assets/e38f6075-9ee7-4954-9696-e85478650aa5" alt="Tesla E-commerce Platform Preview" />
+        </a>
+      </p>
+      <p>A full-featured e-commerce experience inspired by Tesla, built with a modern stack. Includes product browsing, a shopping cart, and a streamlined checkout process.</p>
+      <p align="center">
+        <strong>Tech:</strong> Next.js, TypeScript, Zustand, TailwindCSS
+        <br /><br />
+        <a href="https://github.com/Gigioxx/tesla-ecommerce-next" target="_blank"><strong>View Code</strong></a> | <a href="https://tesla-store-next.vercel.app/" target="_blank"><strong>Live Demo</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">Crypto Prices Dashboard</h4>
+      <p align="center">
+        <a href="https://v0-crypto-prices-liart.vercel.app/" target="_blank">
+          <img src="https://github.com/user-attachments/assets/42e2a054-e5b3-4412-bd36-2945f7551cee" alt="Crypto Prices Dashboard Preview" />
+        </a>
+      </p>
+      <p>A real-time cryptocurrency dashboard fetching data from the CoinGecko API. Features price charts, market data, and a clean, responsive interface.</p>
+      <p align="center">
+        <strong>Tech:</strong> React, TypeScript, Chart.js, Styled Components
+        <br /><br />
+        <a href="https://github.com/Gigioxx/crypto-prices" target="_blank"><strong>View Code</strong></a> | <a href="https://v0-crypto-prices-liart.vercel.app/" target="_blank"><strong>Live Demo</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<hr>
+---
 
-<div align="center">
-  
-  **Check my deployed projects!** (Ordered from newest to oldest)<br>
-  
-  <a href="https://pokedex-vite.vercel.app/" target="blank">Pokédex Vite</a><br>
-  <a href="https://tesla-store-next.vercel.app/" target="blank">Tesla Store Next</a><br>
-  <a href="https://ecommerce-next-gigioxx.vercel.app/" target="blank">Ecommerce Next</a><br>
-  <a href="https://i-songs.vercel.app/" target="blank">iSongs</a><br>
-  <a href="https://react-dbrd.netlify.app/" target="blank">React Dashboard App</a><br>
-  <a href="https://crypto-value.netlify.app/" target="blank">Crypto Prices App</a><br>
-  <a href="https://maps-vue-ts.netlify.app/#/" target="blank">Vue Maps App</a><br>
-  <a href="https://vue-pkmn.netlify.app/" target="blank">Vue Who's that pokemon?</a><br>
-  
-</div>
-  
-<hr>
+### 🛠️ My Core Tech Stack
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigioxx&show_icons=true&theme=dark&locale=en&layout=compact" alt="gigioxx" /></p>
+| Category           | Technologies                                                              |
+| ------------------ | ------------------------------------------------------------------------- |
+| **Core Stack**     | `React` `Next.js` `Node.js` `Nest.js` `TypeScript` `TailwindCSS` `Shadcn/ui` |
+| **Testing**        | `Vitest` `React Testing Library` `Jest` `Playwright`                      |
+| **Databases**      | `PostgreSQL` `MongoDB` `Firebase`                                         |
+| **Tools/Platforms**| `Vercel` `AWS` `Docker` `Git` `GitHub Actions` `PNPM` `Bun`                 |
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gigioxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Guillermo's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigioxx&layout=compact&theme=tokyonight&hide_border=true" alt="Guillermo's Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/guillermo-casanova-barzana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:guillermo.casanova.b@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
