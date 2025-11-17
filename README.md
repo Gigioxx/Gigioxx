@@ -1,29 +1,46 @@
-<div align="center">
-  <h1>Hi, I'm Guillermo 👋</h1>
-  <h3>Senior Full Stack Engineer | Next.js | TypeScript | Performance</h3>
-</div>
+# Hi, I'm Guillermo 👋  
+### Senior Full Stack & AI Engineer · Next.js · TypeScript · React Native · AI Agents
 
-<p align="center">
-  I build high-performance, scalable web applications with a focus on creating exceptional user experiences. My expertise lies in the modern web ecosystem, architecting business-centric products from concept to deployment.
-</p>
+I design and build high‑performance web & mobile products, with a strong focus
+on DX, scalability, and AI‑native experiences. I like taking ideas from zero →
+production: architecture, implementation, and performance tuning.
 
 ---
 
-### 🛠️ My Core Tech Stack
+## ⚡ What I Work On
 
-| Category           | Technologies                                                              |
-| ------------------ | ------------------------------------------------------------------------- |
-| **Core Stack**     | `React` `Next.js` `Node.js` `Nest.js` `TypeScript` `TailwindCSS` `Shadcn/ui` |
-| **Testing**        | `Vitest` `React Testing Library` `Jest` `Playwright`                      |
-| **Databases**      | `PostgreSQL` `MongoDB` `Firebase`                                         |
-| **Tools/Platforms**| `Vercel` `AWS` `Docker` `Git` `GitHub Actions` `PNPM` `Bun`                 |
+- **High‑performance web apps** with Next.js, React, and modern frontend tooling  
+- **AI‑powered products**: LLM integrations, tool‑calling, and AI agents  
+- **Cross‑platform apps** using React, React Native and shared TypeScript codebases  
+- **Product‑centric engineering**: turning business requirements into fast,
+  maintainable systems
 
 ---
 
-### 📫 Connect with Me
+## 🛠️ Core Tech Stack
 
-<p align="center">
-  <a href="https://linkedin.com/in/guillermocasanovab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="mailto:guillermo.casanova.b@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+| Category               | Technologies                                                                 |
+| ---------------------- | ----------------------------------------------------------------------------- |
+| **Web**                | `React` `Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui`                     |
+| **Mobile**             | `React Native` `Expo`                                                         |
+| **Backend & APIs**     | `Node.js` `NestJS` `REST` `GraphQL`                                           |
+| **AI & Agents**        | `LLMs` `RAG` `AI Agents` `Tool Calling` `Vercel AI SDK`                       |
+| **Databases & Data**   | `PostgreSQL` `MongoDB` `Firebase`                                             |
+| **Infra & DevOps**     | `Vercel` `AWS` `GCP` `Docker` `GitHub Actions`                                |
+| **Tooling**            | `PNPM` `Bun` `ESLint` `Prettier`                                              |
+
+---
+
+## 🚀 Currently Into
+
+- AI (Claude, Cursor, Codex)
+- Edge‑first architectures with modern Next.js features
+- Sharing logic between web & mobile (monorepos, TypeScript everywhere)
+- Performance profiling and real‑world optimization
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guillermocasanovab)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillermo.casanova.b@gmail.com)
