@@ -7,40 +7,29 @@ production: architecture, implementation, and performance tuning.
 
 ---
 
-## ⚡ What I Work On
+I ship with AI as a teammate (Claude Code, Cursor, Copilot) using human-validated workflows: plan → implement → review → refactor.
+I lean on Claude Code heavily for large refactors, migrations, and speeding up high-signal code reviews without lowering standards.
 
-- **High‑performance web apps** with Next.js, React, and modern frontend tooling  
-- **AI‑powered products**: LLM integrations, tool‑calling, and AI agents  
-- **Cross‑platform apps** using React, React Native and shared TypeScript codebases  
-- **Product‑centric engineering**: turning business requirements into fast,
-  maintainable systems
+## What I work on
+- Performance, DX, and scalable frontends (Next.js, React, TanStack Query)
+- Cross-platform product engineering (React Native, Expo, shared TS codebases)
+- Backend APIs and systems (NestJS, Firebase/GCP, AWS)
+- AI-native features (LLM integrations, tool calling, agent-style workflows)
 
----
+## Stack (most used)
 
-## 🛠️ Core Tech Stack
+| Area | Tech |
+| --- | --- |
+| **Web** | `React` `Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui` `TanStack Query` `Zustand` |
+| **Mobile** | `React Native` `Expo` `EAS` `MMKV` `FlashList/LegendList` |
+| **Backend & APIs** | `Node.js` `NestJS` `REST` `GraphQL` `Firebase Admin` |
+| **AI / Workflow** | `Claude Code` `Cursor` `GitHub Copilot` `LLM tool-calling` `AI agents` |
+| **Databases** | `Postgres` `Supabase` `Firebase` |
+| **Cloud / Infra** | `Vercel` `GCP/Firebase` `AWS Lambda` `Docker` `Terraform` `GitHub Actions` `Nx` |
+| **Testing** | `Playwright` `Vitest` `Jest` |
+| **Tooling** | `Bun` `pnpm` `oxlint` `oxfmt` |
 
-| Category               | Technologies                                                                 |
-| ---------------------- | ----------------------------------------------------------------------------- |
-| **Web**                | `React` `Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui`                     |
-| **Mobile**             | `React Native` `Expo`                                                         |
-| **Backend & APIs**     | `Node.js` `NestJS` `REST` `GraphQL`                                           |
-| **AI & Agents**        | `LLMs` `RAG` `AI Agents` `Tool Calling` `Vercel AI SDK`                       |
-| **Databases & Data**   | `PostgreSQL` `MongoDB` `Firebase`                                             |
-| **Infra & DevOps**     | `Vercel` `AWS` `GCP` `Docker` `GitHub Actions`                                |
-| **Tooling**            | `PNPM` `Bun` `ESLint` `Prettier`                                              |
-
----
-
-## 🚀 Currently Into
-
-- AI (Claude, Cursor, Codex)
-- Edge‑first architectures with modern Next.js features
-- Sharing logic between web & mobile (monorepos, TypeScript everywhere)
-- Performance profiling and real‑world optimization
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guillermocasanovab)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillermo.casanova.b@gmail.com)
+## Links
+- Website: https://guillermocasanova.cl
+- LinkedIn: https://linkedin.com/in/guillermocasanovab
+- Email: mailto:guillermo.casanova.b@gmail.com
