@@ -1,4 +1,4 @@
-CTO / AI Engineer / Senior Software Engineer.
+AI Engineer / Senior Software Engineer.
 
 I build AI-native products end to end, from fast product interfaces to agent systems, backend services, and infrastructure.
 
